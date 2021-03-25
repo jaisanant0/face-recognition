@@ -63,7 +63,7 @@ pytesseract==0.2.6
 python-dateutil==2.8.0
 python-mnist==0.6
 pytz==2018.9
-PyYAML==5.1
+PyYAML==5.4
 raven==6.10.0
 requests==2.21.0
 requests-toolbelt==0.9.1
